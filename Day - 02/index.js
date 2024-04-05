@@ -23,7 +23,7 @@ const parent = React.createElement(
     ]
 );
 root.render(parent);
-console.log("wow");
+
 /*
 React element is javascrip object
 */
